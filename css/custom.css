@@ -1,0 +1,19 @@
+/* Custom CSS for Hexo Keep Theme */
+
+/* blog4ng/source/css/custom.css */
+
+/* Header */
+:root {
+    --header-title-font-family: NGFONT, Comic Sans MS, cursive, sans-serif;
+    --first-screen-font-family: Comic Sans MS, cursive, sans-serif;
+}
+
+/* First-screen */
+:root {
+    --first-screen-font-color-light: #ffffff;
+    --first-screen-font-color-dark: #ffffff;
+    --first-screen-icon-color-light: #ffffff;
+    --first-screen-icon-color-dark: #f75329;
+    --first-screen-header-font-color-light: #adbac5;
+    
+}

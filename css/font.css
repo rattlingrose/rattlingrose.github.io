@@ -1,0 +1,14 @@
+/* Custom CSS for Hexo Keep Theme */
+
+@font-face {
+  font-family: "NGFONT";
+  src: url('../font/NGFONT.woff2') format('woff2'), /* Modern browsers */
+       url('../font/NGFONT.woff') format('woff'),   /* Fallback for older browsers */
+       url('../font/NGFONT.eot'); /* IE9 compatibility mode */
+  src: url('../font/NGFONT.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../font/NGFONT.otf') format('opentype'), /* Standard OpenType */
+       url('../font/NGFONT.svg#NGFONT') format('svg'); /* Old iOS */
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap; /* Optimize loading experience */
+}

@@ -17,3 +17,15 @@
     --first-screen-header-font-color-light: #adbac5;
     
 }
+
+/* footnots */
+<style>
+  .footnotes {
+    margin-top: 2em;
+    font-size: 0.9em;
+    color: #3d8feb;
+  }
+  .footnotes hr {
+    border: 0.5px dashed #cccccc;
+  }
+</style>
